@@ -1,0 +1,8 @@
+numpy
+scipy
+h5py
+scikit-learn
+lalsuite
+NRSur7dq2
+gwsurrogate
+surfinBH
