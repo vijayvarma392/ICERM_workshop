@@ -1,6 +1,10 @@
 name: example-environment
 channels:
   - conda-forge
+before_install:
+  - sudo apt-get install -y libgsl-dev
+  - travis_wait sudo add-apt-repository -y ppa:mc3man/trusty-media
+  - travis_wait sudo apt-get install -y ffmpeg
 dependencies:
   - numpy
   - scipy
@@ -10,3 +14,6 @@ dependencies:
   - lalsuite
   - gwsurrogate
   - surfinBH
+  - pip
+  - pip:
+    - NRSur7dq2
