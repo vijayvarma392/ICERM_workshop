@@ -1,0 +1,12 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
+  - h5py
+  - scikit-learn
+  - lalsuite
+  - gwsurrogate
+  - surfinBH
