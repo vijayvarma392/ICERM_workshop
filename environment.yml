@@ -8,6 +8,7 @@ dependencies:
   - h5py
   - scikit-learn
   - lalsuite
+  - ffmpeg
   - gwsurrogate
   - surfinBH
   - pip
