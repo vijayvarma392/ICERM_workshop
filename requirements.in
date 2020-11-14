@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+h5py
+scikit-learn
+lalsuite
+gwsurrogate
+surfinBH
