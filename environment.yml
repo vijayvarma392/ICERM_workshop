@@ -13,3 +13,4 @@ dependencies:
   - pip
   - pip:
     - NRSur7dq2
+    - palettable
