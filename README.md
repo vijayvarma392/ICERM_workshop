@@ -19,6 +19,13 @@ install anything.
 
 You will need to install some depenencies to run the notebooks. These are listed [here](https://github.com/vijayvarma392/ICERM_workshop/blob/main/environment.yml)
 
+Then you can open the notebooks using:
+```shell
+git clone git@github.com:vijayvarma392/ICERM_workshop.git
+cd ICERM_workshop
+jupyter notebook .
+```
+
 ### 3. Conda
 
 If you have conda, you can get the environment by doing:
@@ -40,7 +47,12 @@ somthing like:
 conda init bash
 ```
 
-Once the environment is activated, you should be able to run the notebooks.
+Once the environment is activated, you should be able to open the notebooks from
+within the `ICERM_workshop` repo using:
+```shell
+jupyter notebook .
+```
+
 To exit from this environment, do:
 ```shell
 conda deactivate
