@@ -17,9 +17,9 @@ install anything.
 
 ### 2. Install dependencies yourself
 
-You will need to install some depenencies to run the notebooks. These are listed [here](https://github.com/vijayvarma392/ICERM_workshop/blob/main/environment.yml).
+You will need to install some depenencies to run the notebooks. These are listed [here](https://github.com/vijayvarma392/ICERM_workshop/blob/main/environment.yml). All of these are available through either conda or pip.
 
-Then you can open the notebooks using:
+Once these are installed, you can open the notebooks using:
 ```shell
 git clone git@github.com:vijayvarma392/ICERM_workshop.git
 cd ICERM_workshop
