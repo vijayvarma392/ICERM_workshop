@@ -2,9 +2,12 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
+  - jupyterlab>=1.0
   - numpy
   - scipy
   - matplotlib
+  - seaborn
+  - pandas
   - h5py
   - scikit-learn
   - lalsuite
