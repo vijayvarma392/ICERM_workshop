@@ -40,10 +40,10 @@ THE SOFTWARE.
 
 import numpy as np
 import os
-if os.environ.get('DISPLAY','') == '':
-   print('No display found. Using non-interactive Agg backend')
-   import matplotlib as mpl
-   mpl.use('Agg')
+#if os.environ.get('DISPLAY','') == '':
+#   print('No display found. Using non-interactive Agg backend')
+#   import matplotlib as mpl
+#   mpl.use('Agg')
 import matplotlib.pyplot as P
 import argparse
 
