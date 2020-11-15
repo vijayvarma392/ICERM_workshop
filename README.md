@@ -17,7 +17,7 @@ install anything.
 
 ### 2. Install dependencies yourself
 
-You will need to install some depenencies to run the notebooks. These are listed [here](https://github.com/vijayvarma392/ICERM_workshop/blob/main/environment.yml)
+You will need to install some depenencies to run the notebooks. These are listed [here](https://github.com/vijayvarma392/ICERM_workshop/blob/main/environment.yml).
 
 Then you can open the notebooks using:
 ```shell
