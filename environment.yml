@@ -19,3 +19,4 @@ dependencies:
   - pip:
     - NRSur7dq2
     - palettable
+    - forked-rompy
