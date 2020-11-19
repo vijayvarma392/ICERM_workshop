@@ -4,6 +4,10 @@
 
 Notebooks for the ICERM workshop tutorials on surrogate models.
 
+You can find recordings of the tutorials here:       
+[Learning high-fidelity gravitational-wave models from numerical relativity data](https://icerm.brown.edu/video_archive/?play=2412)           
+[Numerical relativity models with gwsurrogate, SurfinBH, and binaryBHexp](https://icerm.brown.edu/video_archive/?play=2413)
+
 ## Instructions
 
 You have three options:
